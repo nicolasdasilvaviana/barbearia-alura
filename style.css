@@ -1,10 +1,13 @@
-
 body {
-	backgrond: #CCCCCC
+	
 }
 
 #banner {
-	widlh: center;
+	widlh:100%;
+}
+
+.principal{
+	backgrond: #CCCCCC
 }
 
 h1 {
@@ -21,4 +24,20 @@ P {
 
 em stromg {
 	color: #FF0000
+}
+
+.itens {
+	font-style: italic
+}
+
+.beneficios {
+	background: #FFFFFF;
+}
+
+h2 {
+	text-align: center;
+}
+
+.imagembeneficios {
+	width: 50%;
 }
